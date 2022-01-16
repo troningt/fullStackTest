@@ -1,0 +1,8 @@
+{
+    "mongodbURL": "mongodb://127.0.0.1:27017/userTest",
+    "redisHost": "104.219.248.174",
+    "redisPort": 6379,
+    "sessionSecret": "A43F85A8EE8E4BEEE2C744E370FFFE49CCAA90610EFBFF713EC6D0895D322A92",
+    "port": 3000,
+    "env": "development"
+}  
